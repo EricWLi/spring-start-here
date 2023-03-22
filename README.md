@@ -1,2 +1,4 @@
 # spring-start-here
-Project for learning the Spring Framework
+Project containing the exercises from the book ***Spring Start Here*** by Laurențiu Spilcă.
+
+
