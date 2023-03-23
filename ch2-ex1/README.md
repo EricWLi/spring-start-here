@@ -1,4 +1,5 @@
-#Chapter 2: Exercise 1
+
+# Chapter 2: Exercise 1
 
 - Create a new project using Maven
 - Add Spring Context as a dependency
